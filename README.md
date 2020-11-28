@@ -3,4 +3,4 @@ This dataset born from the need of mobility traces provided with demographics da
 
 Detailed info can be found in the pdf.
 
-![alt text](http://url/to/img.png)
+![Example of mobility trace](https://github.com/alexcaselli/PERSONa-Mobility-Dataset-Generator/blob/main/student-sim.png)
